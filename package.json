@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "aftabahmedsharief1@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "play-sound": "^1.1.5"
+  }
 }
